@@ -2,3 +2,4 @@ Name: Liying Liang
 Major: Computer Science and Engineering 
 Year: Senior 
 Hobbies: Eat, Sleep, Running, Guitar, Swimming
+Courses Taking this Quarter: Software Engineering, Computer Graphics, Senior Design, Web programming, Core Class 
